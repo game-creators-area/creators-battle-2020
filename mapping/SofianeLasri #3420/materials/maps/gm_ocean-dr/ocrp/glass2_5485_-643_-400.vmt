@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/OCRP/GLASS2.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_ocean-dr/c5485_-643_-400"
+	}
+}

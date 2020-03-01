@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "actu-gamework/starisland/starisland-beach/marble_01"
+	"$bumpmap" "actu-gamework/starisland/starisland-beach/marble_01_bump"
+	"$surfaceprop" "Brick"
+}

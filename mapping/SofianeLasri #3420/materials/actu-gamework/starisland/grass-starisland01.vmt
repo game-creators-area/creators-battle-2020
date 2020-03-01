@@ -1,0 +1,9 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "gmod_tower/lobby/grass"
+	"$basetexture2" "nature/grassfloor003a"
+	"$surfaceprop" "Grass"
+	"$surfaceprop2" "Grass"
+	"%tooltexture" "actu-gamework/starisland/grass-starisland01_tooltexture"
+	//"%detailtype" "alley_grass1"
+}

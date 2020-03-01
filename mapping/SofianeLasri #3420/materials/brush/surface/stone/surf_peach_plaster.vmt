@@ -1,0 +1,8 @@
+
+"LightMappedGeneric"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"brush/surface/stone/surf_peach_plaster"
+	"$bumpMap"			"brush/surface/stone/surf_peach_plaster_normal"
+	"$surfaceprop" 			"concrete"
+}

@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 			"models/nita/ph_resortmadness/prop_fan_palm_leaf_im_05_sharpen"
+	"$alphatest" 			1
+	"$alphatestreference" 		0.25
+}

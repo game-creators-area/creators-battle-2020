@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 			"models/nita/ph_resortmadness/prop_palm_trunk_05"
+
+	"$bumpmap" 			"models/nita/ph_resortmadness/rd_palmtrunk01a_normal"
+
+	"$detail" 			"ph_resortmadness/detail/detail_bouark1"
+	"$detailscale" 			"4.592"
+	"$detailblendfactor" 		1.1
+	"$detailblendmode" 		0
+}

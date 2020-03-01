@@ -1,0 +1,10 @@
+"Refract"
+{
+	"$normalmap"			"ph_resortmadness/glass_tile_normal"
+	"$refracttint"			"[1 1 1]"
+	"$refracttinttexture"		"ph_resortmadness/glass_tilegreen"
+	"$refractamount"		"0.10"
+	"$surfaceprop" 			"Glass"
+	"$bluramount"			"1.00"
+	"%tooltexture"			"ph_resortmadness/glass_tilegreen"
+}

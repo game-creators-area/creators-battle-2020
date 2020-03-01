@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "mirrorsedge/buildingglass01"
+	"$surfaceprop" "Glass"
+}

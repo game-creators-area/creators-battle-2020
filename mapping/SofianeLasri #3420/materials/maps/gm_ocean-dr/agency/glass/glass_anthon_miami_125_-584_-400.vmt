@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/AGENCY/GLASS/GLASS_ANTHON_MIAMI.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_ocean-dr/c125_-584_-400"
+	}
+}

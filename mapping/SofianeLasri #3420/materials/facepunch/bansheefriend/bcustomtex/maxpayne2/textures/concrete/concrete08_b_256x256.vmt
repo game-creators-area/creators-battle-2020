@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture"	"facepunch/BansheeFriend/BCustomTex/MaxPayne2/textures/concrete/concrete08_b_256x256"
+	"$bumpmap"		"steinman/miami/miami_concrete_normal"
+	"$surfaceprop"	concrete
+}

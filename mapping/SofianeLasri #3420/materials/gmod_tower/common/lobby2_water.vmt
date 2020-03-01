@@ -1,0 +1,62 @@
+"Water"
+{
+   "Water_DX60" 
+   { 
+      "$fallbackmaterial" "nature/water_canals_water2_dx70" 
+   } 
+
+   "$abovewater" 1
+   "%compilewater" 1
+   "$reflectentities" 0
+   "$envmap" "env_cubemap"
+   "%tooltexture" "nature/water_frame01_normal"
+
+   "$refracttexture" "_rt_WaterRefraction"
+   "$refractamount" "0.1"
+
+   "$reflecttexture" "_rt_WaterReflection"
+   "$reflectamount" ".1"
+
+   "$bottommaterial" "gmod_tower/common/poolwater_below" 
+
+   "$bumpmap" "gmod_tower/common/poolwater_dudv"
+   "$normalmap" "gmod_tower/common/poolwater_normal"
+
+   "$surfaceprop" "water"
+   "$bumpframe" "0"
+
+   "$fogenable" 1
+   "$fogcolor" "{100 150 180}"
+   "$fogstart" 64.00
+   "$fogend" 512.00
+
+   "$scroll1" "[.0001 .01 .01]"
+   "$scroll2" "[-.01 .01.01]"
+
+   "Proxies"
+   {
+      "AnimatedTexture"
+      {
+         "animatedtexturevar" "$normalmap"
+         "animatedtextureframenumvar" "$bumpframe"
+         "animatedtextureframerate" 20.00
+      }
+      "TextureTransform"
+      {
+         "translateVar" "$temp"
+         "resultVar" "$bumptransform"
+      }  
+      "TextureScroll"
+      {
+         "texturescrollvar" "$bumptransform"
+         "texturescrollrate" .25
+         "texturescrollangle" 200
+      }
+      "WaterLOD"
+      {
+         // fixme!  This has to be here, or material loading barfs.
+         "dummy" 0
+      }
+         
+   }
+}

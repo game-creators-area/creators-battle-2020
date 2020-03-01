@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/FARM/CERAMICBLUE.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_ocean-dr/c4952_-2048_645"
+	}
+}

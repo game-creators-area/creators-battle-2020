@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/SGTSICKTEXTURES/METALGREYBP.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_ocean-dr/c4481_-642_-400"
+	}
+}

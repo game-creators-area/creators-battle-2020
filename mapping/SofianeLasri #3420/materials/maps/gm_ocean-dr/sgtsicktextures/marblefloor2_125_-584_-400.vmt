@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/SGTSICKTEXTURES/MARBLEFLOOR2.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_ocean-dr/c125_-584_-400"
+	}
+}

@@ -1,0 +1,27 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 			"models/nita/ph_resortmadness/prop_fan_palm_leaf_im_01c_editedmips"
+	"$alphatest" 			1
+
+	"$nocull" 			1
+	"model" 			1
+	"$bumpmap" 			"models/nita/ph_resortmadness/prop_fan_palm_leaf_im_01c_n"
+
+	"$peter" 			"10"
+	"Proxies"
+	{
+		"Sine"
+		{
+			"sineperiod" 	"16"
+			"sinemin" 	"-2"
+			"sinemax" 	"2"
+			"resultVar" 	"$peter"
+		}
+
+		"TextureTransform"
+		{
+			"rotateVar" 	"$peter"
+			"resultVar" 	"$basetexturetransform"		
+		}
+	}
+}

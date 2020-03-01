@@ -1,0 +1,10 @@
+
+"LightMappedGeneric"
+{
+	"$color"				"[0.7 0.7 0.7]"
+	"$baseTexture"			"brush/surface/stone/surf_cream_plaster"
+	"$selfIllum"			0
+	"$translucent"			0
+	"$bumpMap"			"brush/surface/stone/surf_cream_plaster_normal"
+	"$surfaceprop" 			"concrete"
+}

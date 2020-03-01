@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "steinman/miami/miami_green_concrete"
+	"$bumpmap"		"steinman/miami/miami_concrete_normal"
+	"$reflectivity"	"[0 0.6 0]"
+	"$surfaceprop"	concrete
+}

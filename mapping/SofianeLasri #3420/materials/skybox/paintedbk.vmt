@@ -1,0 +1,10 @@
+"g_sky"
+{
+	Proxies
+	{
+		SkyPaint
+		{
+			// No configuration. Entity controlled.
+		}
+	}
+}

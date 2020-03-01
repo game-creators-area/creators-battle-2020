@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/GMOD_TOWER/COMMON/LOBBY2_WATER.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_ocean-dr/c125_-584_-400"
+		"Proxies"
+		{
+		}
+	}
+}

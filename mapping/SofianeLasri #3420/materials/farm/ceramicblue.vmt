@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture farm\ceramicblue
+	$surfaceprop tile
+	$envmap			env_cubemap
+	$envmapmask		"farm\ceramicmask"
+}

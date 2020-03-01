@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 			"models/nita/ph_resortmadness/h1_mp_bog_summer_fan_palm_tree_bark_01_col"
+	"$bumpmap" 			"models/nita/ph_resortmadness/h1_mp_bog_summer_fan_palm_tree_bark_01_nml"
+
+	"$detail" 			"ph_resortmadness/detail/detail_bouark1"
+	"$detailscale" 			"4.592"
+	"$detailblendfactor" 		1.1
+	"$detailblendmode" 		0
+}

@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/AJACKS/H_TANMARBLE.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_ocean-dr/c1541_-630_-400"
+	}
+}
