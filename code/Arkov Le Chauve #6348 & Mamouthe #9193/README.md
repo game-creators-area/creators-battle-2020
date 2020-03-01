@@ -1,7 +1,5 @@
 # AM Minigame system
 
-Foobar is a Python library for dealing with word pluralization.
-
 ## Fonctionnalités
 
 * Un NPC Guichetier permettant d'accéder aux différents mini-jeus
