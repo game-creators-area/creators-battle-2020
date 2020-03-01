@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+   	"$BaseTexture" 	"gmod_tower\lobby\marbletilenormal"
+	"$surfaceprop" 	"rock"
+	"$bumpmap" 	"gmod_tower\lobby\marbletile"
+}

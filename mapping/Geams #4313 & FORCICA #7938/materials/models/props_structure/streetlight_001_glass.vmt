@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_structure/streetlight_001_glass"
+	"$translucent"	"1"
+
+
+	"$envmap"		"env_cubemap"
+	"$envmapmask"		"models/props_structure/streetlight_001_glass_mask"
+	"$envmaptint"		"[ 0.7 0.7 0.7 ]"
+}

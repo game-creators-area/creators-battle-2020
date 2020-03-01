@@ -1,0 +1,8 @@
+"VertexlitGeneric" 
+{ 
+	"$basetexture" "models/mark2580/gtav/mp_apa_mid/hall/tl_v_apartmentmid_posters"
+	
+	"$envmap"                      "env_cubemap"
+    "$envmaptint"                  "[.2 .2 .2]"
+    "$normalmapalphaenvmapmask"    "1"	
+} 

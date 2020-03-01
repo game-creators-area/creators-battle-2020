@@ -1,0 +1,19 @@
+"VertexlitGeneric" 
+{ 
+	"$basetexture" "models/mark2580/gtav/bahamamama/nature/km_v_fbibombplant"
+    "$bumpmap"            "models/mark2580/gtav/bahamamama/nature/km_v_fbibombplant_n"	
+   "$phongexponenttexture" "mark2580/gtav/AfterHoursClub/shared/green"    
+   
+$phong               1
+$phongfresnelranges "[0.3 0.75 1.00]"
+$phongalbedotint     1
+$phongexponent       50
+$phongboost          1.5
+$nocull              0
+
+	$rimlight               1
+	$rimlightexponent       0.5
+	$rimlightboost          1
+	
+	$ambientocclusion     "0"
+} 

@@ -1,0 +1,11 @@
+"VertexlitGeneric" 
+{ 
+	"$basetexture"        "models/mark2580/gtav/mp_apa_mid/kitchen/km_v_dinechair1"
+    "$bumpmap"            "models/mark2580/gtav/mp_apa_mid/kitchen/km_v_dinechair1_n"	
+
+   "$phong"               "1"
+   "$phongexponent"       "80"
+   "$phongboost"          "0.05"
+   "$phongfresnelranges"  "[2 1 5]"
+   "$halflambert"         "1"
+} 

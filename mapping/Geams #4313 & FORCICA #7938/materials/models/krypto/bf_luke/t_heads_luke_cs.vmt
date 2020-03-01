@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/krypto/bf_luke/t_heads_luke_cs"
+	"$bumpmap" 					"models/krypto/bf_luke/t_heads_luke_nw"
+	"$color2"	"[0.85 0.85 0.85]"
+
+	"$phongexponenttexture"	"models/krypto/bf_luke/t_heads_luke_exp"
+	"$phongalbedotint" 0
+	"$phong" "1"
+	"$phongboost"	"0"
+	"$phongfresnelranges"	"[1 1.05 1.25]"
+}

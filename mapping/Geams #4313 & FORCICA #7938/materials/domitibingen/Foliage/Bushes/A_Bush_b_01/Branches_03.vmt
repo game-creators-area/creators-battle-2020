@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "domitibingen/Foliage/Bushes/A_Bush_b_01/Branches_03"
+	$model "1"
+$alphatest "1"
+
+
+	 $nocull "1"
+}

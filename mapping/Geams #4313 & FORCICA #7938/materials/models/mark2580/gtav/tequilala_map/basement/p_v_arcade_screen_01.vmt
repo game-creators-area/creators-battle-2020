@@ -1,0 +1,53 @@
+"Unlittwotexture"
+{
+   "$basetexture"         "models/mark2580/gtav/tequilala_map/basement/p_v_arcade_screen_01"
+   "$texture2"	"dev/dev_scanline"
+   "$bumpmap"             "dev/bump_normal"
+   "$phongexponenttexture" "mark2580/gtav/tequilala_map/shared/green"  
+
+$phong               1
+$phongfresnelranges "[0.3 0.75 1.00]"
+$phongalbedotint     1
+$phongexponent       30
+$phongboost          15
+$nocull              1
+
+	"Proxies"
+	{
+
+        "AnimatedTexture"
+        {
+            "animatedTextureVar"         "$basetexture"
+            "animatedTextureFrameNumVar" "$frame"
+            "animatedTextureFrameRate"   "7"
+		}
+		"Sine"
+		{
+			"resultVar" "$color[0]"
+			"sineperiod" .1
+			"sinemin" .99
+			"sinemax" 1
+		}
+		"Sine"
+		{
+			"resultVar" "$color[1]"
+			"sineperiod" .1
+			"sinemin" .99
+			"sinemax" 1
+		}
+		"Sine"
+		{
+			"resultVar" "$color[2]"
+			"sineperiod" .1
+			"sinemin" .99
+			"sinemax" 1
+		}
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$texture2transform"
+			"texturescrollrate" .2
+			"texturescrollangle" -90
+		}		
+	}
+}

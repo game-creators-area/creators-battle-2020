@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+   "$basetexture"         "models/mark2580/gtav/bahamamama/interior/ah_bahama_westemisah_bahama_westemis_a"
+   $translucent 1
+   $additive 0
+}

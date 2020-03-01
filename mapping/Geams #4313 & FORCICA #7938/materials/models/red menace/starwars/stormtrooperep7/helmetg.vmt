@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Red Menace/StarWars/StormtrooperEp7/Helmet"
+	"$bumpmap" "models/Red Menace/StarWars/StormtrooperEp7/Helmet_B"
+$halflambert "1"	
+$phongexponent "40"
+$phongfresnelranges	"[1 8 13]"
+$nocull 1
+$phong 1
+$phongboost .75
+$nodecal 1
+$ambientocclusion 1
+}

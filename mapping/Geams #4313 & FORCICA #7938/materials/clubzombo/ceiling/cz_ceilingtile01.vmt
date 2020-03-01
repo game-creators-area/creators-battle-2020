@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "clubzombo\ceiling\CZ_ceilingtile01"
+	"$surfaceprop" "carpet"
+	"$selfillum" "1"
+	"$bumpmap" "clubzombo/ceiling/CZ_ceilingtile01_ssbump"
+        "$ssbump" "1"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[ .04 .04 .04 ]"
+	"$envmap" "env_cubemap"
+ }
+
+

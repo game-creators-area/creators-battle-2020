@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	$baseTexture 			"models/nita/ph_resortmadness/TrashCanKitchen01"
+	$envmap 			env_cubemap
+	$envmapmask 			"models/nita/ph_resortmadness/TrashCanKitchen01_ref"
+	$envmaptint 			"[ .3 .3 .3 ]"
+
+	$detail 			ph_resortmadness/detail/detail_metal1
+	$detailscale 			1.738
+	$detailblendfactor 		1.2
+	$detailblendmode 		0
+}

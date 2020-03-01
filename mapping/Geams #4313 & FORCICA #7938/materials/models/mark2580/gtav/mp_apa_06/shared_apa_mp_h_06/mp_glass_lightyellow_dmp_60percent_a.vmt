@@ -1,0 +1,9 @@
+"VertexlitGeneric" 
+{ 
+	"$basetexture" "models/mark2580/gtav/mp_apa_06/shared_apa_mp_h_06/mp_glass_lightyellow_dmp_60percent_a" 
+   "$nocull"      "0" 
+ 	"$envmap"             "env_cubemap" 
+   "$envmaptint"         "[.7 .7 .7]" 
+   "$normalmapalphaenvmapmask"    "1"
+    $translucent 1
+} 

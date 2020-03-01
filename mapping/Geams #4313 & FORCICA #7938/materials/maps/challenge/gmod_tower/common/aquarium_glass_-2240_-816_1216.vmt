@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/GMOD_TOWER/COMMON/AQUARIUM_GLASS.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/challenge/c-2240_-816_1216"
+	}
+}

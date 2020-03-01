@@ -1,0 +1,10 @@
+
+"LightMappedGeneric"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"brush/slasher/decal/decal_brick"
+	"$alpha"				"1"
+	"$decal"				"1"
+    	"$decalscale" 			"0.175"
+   	"$translucent" 			1
+}

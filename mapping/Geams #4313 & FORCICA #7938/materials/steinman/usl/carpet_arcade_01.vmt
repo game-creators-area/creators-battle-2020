@@ -1,0 +1,5 @@
+"LightMappedGeneric"
+{
+	"$basetexture" "steinman/usl/carpet_arcade_01"
+	"$surfaceprop" carpet
+}

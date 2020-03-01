@@ -1,0 +1,17 @@
+"LightmappedGeneric"
+{
+	"$basetexture" 		"brush/vegas/misc/blue_strip_scroll"
+	"$surfaceprop" 		"metal"
+	"$selfillum"		"1"
+
+	"Proxies"
+	{
+	"TextureScroll"
+		{
+			"textureScrollVar" "$baseTextureTransform"
+			"textureScrollRate" "2"
+			"textureScrollAngle" 0
+		}
+	}
+
+}

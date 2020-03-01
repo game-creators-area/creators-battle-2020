@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/mrpatate/Material"
+	"$translucent" 1
+}

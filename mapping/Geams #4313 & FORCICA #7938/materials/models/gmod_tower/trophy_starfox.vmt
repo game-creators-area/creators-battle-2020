@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/gmod_tower/trophy_models"
+	"$model" "1"
+
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/gmod_tower/trophy_models_mask"
+	"$envmaptint" "[1.0 0.8 0.3]" 
+
+	"$phong" "1"
+	"$phongexponent" "33"
+	"$phongboost" "6"
+	"$halflambert" "1"
+	"$BasemapAlphaPhongMask" "1"
+	$phongfresnelranges  "[0.05 0.5 1]"
+}

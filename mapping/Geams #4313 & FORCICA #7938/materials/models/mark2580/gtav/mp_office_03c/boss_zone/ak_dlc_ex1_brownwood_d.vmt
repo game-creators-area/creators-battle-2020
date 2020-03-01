@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture"        "models/mark2580/gtav/mp_office_03c/boss_zone/ak_dlc_ex1_brownwood_d"
+    "$bumpmap"            "models/mark2580/gtav/mp_office_03c/shared/flat_normal_alt3"
+
+$phong               1
+$phongfresnelranges  "[0.3 0.75 1.00]"
+$halflambert         1
+$phongexponent       35
+$phongboost          0.7
+$nocull              0
+
+$envmap             "env_cubemap" 
+$envmaptint         "[.001 .001 .001]"
+}

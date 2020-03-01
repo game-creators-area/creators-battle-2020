@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "domitibingen/Foliage/Bushes/A_Bush_b_01/BoxwoodBark"
+
+
+	 $nocull "1"
+}

@@ -1,0 +1,16 @@
+UnlitGeneric
+{
+	$basetexture "geams/rubik"
+	$bumpmap "geams/rubik_nrm"
+	$surfaceprop Metal
+
+	$envmap "env_cubemap"
+	$envmapmask "geams/rubik_spec"
+	$envmaptint "[0.98 0.98 1]"
+	$envmapcontrast 1
+	$fresnelreflection 0
+	$envmaplightscale 1
+	$envmaplightscaleminmax "[0 1]"
+	$envmapanisotropy 1
+	$envmapanisotropyscale 1
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props/slow/glass_table_low/slow_glass_table_low_1"
+	"$translucent" 1
+}

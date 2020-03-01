@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "unioncity/misc/picketfence02"
+	$color "[.8 .8 .8]"
+	$alphatest 1
+	$alphatestreference .6
+	$nocull 1
+	$surfaceprop wood
+}

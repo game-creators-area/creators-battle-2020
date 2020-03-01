@@ -1,0 +1,22 @@
+"UnlitGeneric"
+{
+   "$basetexture"         "models/mark2580/gtav/electrical/rsn_cr_neon_robot_gum"
+   
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" 	         "$baseTextureTransform"
+			"texturescrollrate" 	     "0.15"
+			"texturescrollangle" 	     "90"
+			"texturescale" 		         "1.0"
+		}
+		
+        "AnimatedTexture"
+        {
+           "animatedTextureVar"         "$basetexture"
+           "animatedTextureFrameNumVar" "$frame"
+            "animatedTextureFrameRate"   "0.15"
+		}		
+	}   
+}

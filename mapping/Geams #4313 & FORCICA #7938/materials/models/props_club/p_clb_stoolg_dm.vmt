@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_club/p_clb_stoolg_dm"
+	$bumpmap "models/props_club/p_clb_stoolg_n"
+	
+	$envmap env_cubemap
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[.5 .5 .5]"
+    $phong "1"
+    $phongtint "[.8 .7 .5]"
+    $phongexponent "40"
+    $phongboost "4"
+    $phongfresnelranges "[1 1 1]"
+}

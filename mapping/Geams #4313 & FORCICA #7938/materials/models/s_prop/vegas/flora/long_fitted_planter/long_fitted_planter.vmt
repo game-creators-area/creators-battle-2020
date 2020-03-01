@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture"	"models/s_prop/vegas/flora/long_fitted_planter/long_fitted_planter"
+	"$alphatest"	"1"
+	"$nocull"		"1"
+
+}

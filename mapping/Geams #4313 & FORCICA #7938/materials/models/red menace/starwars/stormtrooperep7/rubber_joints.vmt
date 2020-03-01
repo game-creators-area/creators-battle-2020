@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Red Menace/StarWars/StormtrooperEp7/Rubber_joints"
+	"$bumpmap" "models/Red Menace/StarWars/StormtrooperEp7/Rubber_joints_B"
+"$nocull" 1
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "9"
+	"$phongboost" "0.2"	
+	"$phongfresnelranges"	"[.05 0.1 0.3]"
+
+}

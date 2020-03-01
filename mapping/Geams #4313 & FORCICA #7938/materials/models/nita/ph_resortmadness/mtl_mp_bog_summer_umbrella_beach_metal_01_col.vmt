@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 			"models/nita/ph_resortmadness/mp_h_acc_scent_metal_01"
+	"$bumpmap" 			"models/nita/ph_resortmadness/mtl_mp_bog_summer_umbrella_beach_metal_01_nml"
+
+	$alphatest 			1
+	
+   	"$nocull"      			"0" 
+   	"$envmap"             		"env_cubemap"
+   	"$envmaptint"         		"[0.01 0.01 0.01]" 
+   	"$normalmapalphaenvmapmask"    	"1" 
+
+   	$phong               		1
+	$phongfresnelranges  		"[1.00 1.00 1.00]"
+	$halflambert         		1
+	$phongexponent       		80
+	$phongboost          		1
+
+	"$detail" 			"ph_resortmadness/detail/detail_metal1"
+	"$detailscale" 			"0.6"
+	"$detailblendfactor" 		"1.1"
+	"$detailblendmode" 		"0" 
+}

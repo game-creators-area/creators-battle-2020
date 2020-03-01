@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+   "$basetexture"         "models/mark2580/gtav/electrical/prop_club_speaker_large_d"
+   "$bumpmap"             "models/mark2580/gtav/electrical/prop_club_speaker_large_n"
+
+   "$phongexponenttexture" "models/mark2580/gtav/electrical/shared/green"  
+     
+$phong               1
+$phongfresnelranges "[0.3 0.75 1.00]"
+$phongalbedotint     1
+$phongexponent       45
+$phongboost          5
+
+	$rimlight               1
+	$rimlightexponent       2
+	$rimlightboost          15
+	 
+$alphatest           1
+$alphatestreference  0.5
+$ambientocclusion    0
+}

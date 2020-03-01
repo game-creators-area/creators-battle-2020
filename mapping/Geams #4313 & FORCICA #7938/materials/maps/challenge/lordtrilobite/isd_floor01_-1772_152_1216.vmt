@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/LORDTRILOBITE/ISD_FLOOR01.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/challenge/c-1772_152_1216"
+	}
+}

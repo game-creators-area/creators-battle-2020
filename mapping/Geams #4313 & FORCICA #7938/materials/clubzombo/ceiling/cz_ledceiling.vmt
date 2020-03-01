@@ -1,0 +1,17 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "clubzombo\ceiling\CZ_ledceiling"
+	"$surfaceprop" "plastic"
+	"$selfillum" "1"
+	"Proxies" 
+       { 
+         "AnimatedTexture" 
+         { 
+            "animatedTextureVar" "$basetexture" 
+            "animatedTextureFrameNumVar" "$frame" 
+            "animatedTextureFrameRate" "5" 
+         }
+    } 
+ }
+
+

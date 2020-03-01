@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "sgtsicktextures/greensteelbp"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.2 .2 .2]"
+	"$surfaceprop" "Metal"
+	"%keywords" "bp"
+}

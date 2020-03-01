@@ -1,0 +1,13 @@
+LightmappedGeneric
+{
+	$basetexture "campus/plaster/plaster01"
+	$bumpmap "campus/plaster/plaster01n"
+	$surfaceprop Plaster
+
+	$reflectivity "[0.90 0.90 0.90]"
+
+	$envmap "environment maps/metal_generic_002"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.30 0.30 0.30]"
+	$envmaplightscale 1
+}

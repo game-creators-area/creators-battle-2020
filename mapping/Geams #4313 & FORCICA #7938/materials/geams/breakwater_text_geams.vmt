@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "geams/breakwater_text_geams"
+	"$bumpmap" "geams/breakwater_text_geams_NRM"
+	"$translucent" 1
+}

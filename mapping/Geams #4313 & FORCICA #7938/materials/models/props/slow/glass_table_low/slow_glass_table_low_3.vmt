@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props/slow/glass_table_low/slow_glass_table_low_3"
+
+	"$envmap" "models/props/slow/glass_table_low/slow_glass_table_low_spec"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[1 1 1]" 
+	"$envmapcontrast" 0
+	"$envmapsaturation" 1
+}

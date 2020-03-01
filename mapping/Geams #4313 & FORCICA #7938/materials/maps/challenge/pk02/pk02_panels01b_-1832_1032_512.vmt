@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/PK02/PK02_PANELS01B.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/challenge/c-1832_1032_512"
+	}
+}

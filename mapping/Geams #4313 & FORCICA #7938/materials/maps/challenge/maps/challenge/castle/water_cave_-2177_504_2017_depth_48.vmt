@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/challenge/castle/water_cave_-2177_504_2017.vmt"
+	"insert"
+	{
+		"$waterdepth"		"48"
+	}
+}

@@ -1,0 +1,26 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\Nirrti\BTTF\DeLorean\buttons"
+	"$bumpmap" "models\Nirrti\BTTF\DeLorean\delorean02_n"
+	"$phong" "1"
+	"$halflambert" "1"
+	"$phongexponent" "75"
+	"$phongboost" "1"	
+	"$phongfresnelranges"	"[ 0.7 3 10 ]"
+	"$phongalbedotint" "1"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .025 .025 .025 ]"
+
+	// Rim lighting parameters
+	"$rimlight" "1"
+	"$rimlightexponent" "5"
+	"$rimlightboost" ".25"
+
+$color2 "[1 1 1]"
+$ambientocclusion 1
+$detail "models\Nirrti\BTTF\DeLorean\buttons"
+$detailscale 1
+$detailblendfactor "0.1"
+$detailblendmode 5
+}

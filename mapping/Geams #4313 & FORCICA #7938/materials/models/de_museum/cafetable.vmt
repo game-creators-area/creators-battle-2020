@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+"$basetexture" "models/de_museum/cafetable"
+"$envmap" "env_cubemap"
+"$envmaptint" "[.3 .3 .3]"
+"$surfaceprop" "rock"
+"$model" 1
+}

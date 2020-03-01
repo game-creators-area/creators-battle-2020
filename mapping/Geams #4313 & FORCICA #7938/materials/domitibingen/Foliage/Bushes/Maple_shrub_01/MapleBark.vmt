@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "DomiTibingen/Foliage/Bushes/Maple_shrub_01/MapleBark"
+
+
+	 $nocull "1"
+}

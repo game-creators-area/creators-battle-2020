@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gmod_tower/lobby/pt_carpet"
+	"$surfaceprop" "Dirt"
+	"%keywords" "pixeltail lobby pt"
+}

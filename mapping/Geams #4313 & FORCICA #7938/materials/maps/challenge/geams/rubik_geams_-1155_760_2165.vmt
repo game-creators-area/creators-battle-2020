@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/GEAMS/RUBIK_GEAMS.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/challenge/c-1155_760_2165"
+	}
+}

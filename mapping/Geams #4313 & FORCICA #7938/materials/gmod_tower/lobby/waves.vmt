@@ -1,0 +1,16 @@
+"UnLitGeneric"
+{
+	"$basetexture" "gmod_tower\lobby\waves"
+	"$surfaceprop" "water"
+	"$translucent" "1"
+
+	Proxies
+	{
+		TextureScroll
+		{
+			texturescrollvar $basetexturetransform
+			texturescrollrate 0.1
+			texturescrollangle 270
+		}
+	}
+}

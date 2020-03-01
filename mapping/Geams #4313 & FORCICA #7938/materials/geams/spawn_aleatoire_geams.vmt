@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "geams/spawn_aleatoire_geams"
+	"$translucent" 1
+	"$alpha" 0.95
+}

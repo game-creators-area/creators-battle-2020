@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "de_vegas/vegas_poster01"
+	"$decal" "1"
+	"$decalscale" "0.25"
+	"$alphatest" 1
+}

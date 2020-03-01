@@ -1,0 +1,7 @@
+WorldVertexTransition
+{
+             $basetexture "geams/blend_grass_01_geams"
+             $basetexture2 "de_piranesi/pi_groundw"
+             $surfaceprop2 "dirt"
+             $surfaceprop "grass"
+}

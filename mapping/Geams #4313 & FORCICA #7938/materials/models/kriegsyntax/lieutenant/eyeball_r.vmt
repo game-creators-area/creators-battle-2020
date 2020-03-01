@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\kriegsyntax\General/eyeball_r"
+	"$model" 1
+	"$selfillum" 1
+}

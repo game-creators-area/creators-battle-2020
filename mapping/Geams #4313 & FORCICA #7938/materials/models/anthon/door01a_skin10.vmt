@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+	$basetexture "models/anthon/door01a_skin10_diffuse"
+	$bumpmap "models/anthon/door01a_skin10_normal"
+
+	$envmap "env_cubemap"
+
+	$phong 1
+	$phongexponenttexture "models/anthon/door01a_skin10_glossiness"
+	$phongfresnelranges "[0.5 0.75 1]"
+}

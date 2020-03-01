@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "geams/cloth_green_geams"
+	"$bumpmap" "geams/cloth_green_geams_nrm"
+}

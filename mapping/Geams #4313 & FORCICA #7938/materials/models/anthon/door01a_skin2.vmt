@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	$basetexture "models/anthon/door01a_skin2_diffuse"
+	$bumpmap "models/anthon/door01a_skin2_normal"
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.50 0.50 0.50]"
+
+	$phong 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongexponent 5
+	$phongboost 0.5
+}

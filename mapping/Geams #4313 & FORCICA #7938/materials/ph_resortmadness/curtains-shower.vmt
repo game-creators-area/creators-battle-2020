@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+
+	"$basetexture" 			"ph_resortmadness/curtains-shower"
+	"$surfaceprop" 			"carpet"
+	"$bumpmap" 			"ph_resortmadness/curtains-shower_n"
+
+	"$envmap"             		"env_cubemap"
+	"$envmaptint"			"[0.06 0.06 0.06]"
+}

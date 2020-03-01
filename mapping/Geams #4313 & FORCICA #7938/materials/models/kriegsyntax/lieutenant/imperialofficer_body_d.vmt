@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\KriegSyntax\Lieutenant/ImperialOfficer_body_d"
+	"$bumpmap" "models\KriegSyntax\General/imperialOfficer_body_n"
+	"$nocull" 1
+	"$halflambert" 1
+}

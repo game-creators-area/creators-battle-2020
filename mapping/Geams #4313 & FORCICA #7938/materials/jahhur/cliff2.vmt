@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "jahhur/cliff2"
+	"$surfaceprop" "rock"
+	"%keywords" "pvk"
+	"$bumpmap" "jahhur/cliff1_normal"
+	//"$ssbump" "1"
+}

@@ -1,0 +1,9 @@
+
+"UnlitGeneric"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"brush/vegas/misc/city_skyline"
+	"$surfaceprop" 			"wood"
+	"$alpha"				"1"
+	"$selfillum"			"1"
+}

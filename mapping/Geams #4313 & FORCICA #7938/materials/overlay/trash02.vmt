@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+
+	"$surfaceprop" "concrete"
+	"$basetexture" "overlay/trash02"
+	"$translucent"                  "1"
+	"$decal"                        "1"
+	"$decalscale"                   ".25"
+	}

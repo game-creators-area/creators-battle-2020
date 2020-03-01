@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/PH_RESORTMADNESS/CURTAINS-SHOWER.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/challenge/c-600_72_2208"
+	}
+}

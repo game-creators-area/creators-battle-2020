@@ -1,0 +1,34 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\Nirrti\BTTF\DeLorean\delorean18"
+	"$bumpmap" "models\Nirrti\BTTF\DeLorean\delorean18_n"
+	"$phong" "1"
+	"$halflambert" "1"
+	"$phongexponent" "75"
+	"$phongboost" "1"	
+	"$phongfresnelranges"	"[ 0.7 3 10 ]"
+	"$phongalbedotint" "1"
+	"$no_draw" "1"
+
+	"$translucent" "1"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .01 .01 .01 ]"
+
+	// Rim lighting parameters
+	"$rimlight" "1"
+	"$rimlightexponent" "5"
+	"$rimlightboost" ".25"
+
+"Proxies"
+	{
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+				"texturescrollrate" 0.5
+				"texturescrollangle" 90
+		}
+	
+	}
+}

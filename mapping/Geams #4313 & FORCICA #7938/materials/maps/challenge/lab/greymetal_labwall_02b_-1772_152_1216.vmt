@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/LAB/GREYMETAL_LABWALL_02B.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/challenge/c-1772_152_1216"
+	}
+}

@@ -1,0 +1,20 @@
+LightmappedGeneric
+{
+	$basetexture "campus/metal/metal_panel02a"
+	$bumpmap "campus/metal/metal_panel02an"
+	$surfaceprop Metal
+
+	$detail "campus/concrete/panel01_detail"
+	$detailscale 1
+	$detailblendfactor 0.5
+
+	$envmap "environment maps/metal_generic_002"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.20 0.20 0.20]"
+	$envmapcontrast 0.5
+	$envmaplightscale 1
+
+	$phong 1
+	$phongexponent 25
+	$phongamount "[2 2 2 1]"
+}

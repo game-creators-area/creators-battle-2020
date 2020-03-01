@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "steinman/usl/neon_blue_panel"
+	"$surfaceprop" "glass"
+}

@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+   "$basetexture"         "models/mark2580/gtav/AfterHoursClub/bar/km_ng_v_barfridge"
+   "$bumpmap"             "models/mark2580/gtav/AfterHoursClub/bar/km_ng_v_barfridge_n"
+
+   "$phongexponenttexture" "mark2580/gtav/AfterHoursClub/shared/green"    
+   
+$phong               1
+$phongfresnelranges "[0.3 0.75 1.00]"
+$phongalbedotint     1
+$phongexponent       50
+$phongboost          1.0
+$nocull              1
+}

@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+    $basetexture "models\props_downtown\downtown_neonSign_open01_diff"
+    $selfillum 1
+	$selfillumtint "[1.5 1.25 1.5]"
+}    

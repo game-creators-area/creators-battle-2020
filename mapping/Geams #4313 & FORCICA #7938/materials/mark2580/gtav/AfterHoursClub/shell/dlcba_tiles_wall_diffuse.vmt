@@ -1,0 +1,15 @@
+"lightmappedGeneric"
+{
+   "$basetexture"         "mark2580/gtav/AfterHoursClub/shell/dlcba_tiles_wall_diffuse"
+//  "$basetexture"         "dev/dev_measuregeneric01"   
+   "$bumpmap"             "mark2580/gtav/AfterHoursClub/shell/dlcba_tiles_wall_SSBump"
+
+$normalmapalphaenvmapmask 1
+$envmap            "env_cubemap"
+$envmapcontrast    "0"
+$envmaptint        "[.05 .05 .05]"
+$surfaceprop       "tile"
+$ssbump             1
+
+//$lightwarptexture        "mark2580/gtav/AfterHoursClub/shared/lightwarp_hair"
+}

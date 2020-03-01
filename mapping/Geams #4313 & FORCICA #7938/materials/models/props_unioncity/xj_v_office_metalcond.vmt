@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_unioncity/xj_v_office_metalcond"
+	$bumpmap "models/flat_normal"
+	$envmap env_cubemap
+	$envmaptint "[ 0.05 0.05 0.05 ]"
+    $phong "1"
+    $phongtint "[.84 .7 .3]"
+    $phongexponent "25"
+    $phongboost "0.7"
+    $phongfresnelranges "[1 2 5]"
+}

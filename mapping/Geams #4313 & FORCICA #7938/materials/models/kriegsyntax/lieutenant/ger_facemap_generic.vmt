@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\kriegsyntax\General\ger_facemap_generic"
+	"$bumpmap" "models\kriegsyntax\General\ger_facemap_generic_normal"
+	"$halflambert" 1
+	"$nocull" 1
+}

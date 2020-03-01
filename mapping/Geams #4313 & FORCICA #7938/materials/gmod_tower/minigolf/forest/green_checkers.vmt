@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gmod_tower/minigolf/forest/green_checkers"
+	"$bumpmap" "gmod_tower/minigolf/forest/green_checkers_normals"
+	"$surfaceprop" "Dirt"
+	"$surfaceprop2" "Dirt"
+}

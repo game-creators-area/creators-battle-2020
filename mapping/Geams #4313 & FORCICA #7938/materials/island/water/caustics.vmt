@@ -1,0 +1,24 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "island/water/Caustics"
+	$translucent 1
+	$additive 1
+	$decal 1
+	$decalscale 1
+	"Proxies"			// These proxies control the water animation.
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$basetexture"
+			"animatedtextureframenumvar" "$frame"
+			"animatedtextureframerate" 16.00
+		}
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" .05
+			"texturescrollangle" 45.00
+		}
+	}
+}

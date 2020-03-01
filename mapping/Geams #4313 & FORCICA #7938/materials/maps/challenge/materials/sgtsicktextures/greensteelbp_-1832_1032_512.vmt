@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/MATERIALS/SGTSICKTEXTURES/GREENSTEELBP.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/challenge/c-1832_1032_512"
+	}
+}

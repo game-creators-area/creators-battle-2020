@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture" "geams/bowling_logo_geams"
+	"$translucent" 1
+	"$decal" 1
+	"$decalscale" 1.5
+}
+
+

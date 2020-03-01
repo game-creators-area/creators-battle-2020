@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/GEAMS/CEILING_BOWLING_GEAMS.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/challenge/c-2056_-304_1216"
+	}
+}

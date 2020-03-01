@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props/slow/bluetube/slow_bluetube_2"
+	"$bumpmap"	"models/props/slow/bluetube/slow_bluetube_2_bump"
+
+	"$nocull" 1
+	"$envmap" "models/props/slow/bluetube/slow_bluetube_spec"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[1 1 1]" 
+	"$envmapcontrast" 0.2
+	"$envmapsaturation" 2
+
+}

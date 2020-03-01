@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_foliage/rocks_004"
+	"$bumpmap"     "models/props_foliage/rock_001_normal"
+
+	"$detail" "detail\rock_detail_02"
+	"$detailscale" "3"
+	"$detailblendfactor" 0.5
+	"$detailblendmode" "0"
+
+
+	"$halflambert" 		"1"
+
+	"$phong" 		"1"
+	"$phongexponent" 	"10"
+	"$phongboost" 		"1"
+	"$phongfresnelranges" 	"[0.1 0.1 0.1]"
+}

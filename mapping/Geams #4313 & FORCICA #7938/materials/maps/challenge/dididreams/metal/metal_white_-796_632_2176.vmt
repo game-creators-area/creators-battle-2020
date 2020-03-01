@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/DIDIDREAMS/METAL/METAL_WHITE.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/challenge/c-796_632_2176"
+	}
+}

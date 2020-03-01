@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "geams/sidewalk_grey_geams"
+	"$bumpmap" "geams/tile_floor_001b_NRM"
+}

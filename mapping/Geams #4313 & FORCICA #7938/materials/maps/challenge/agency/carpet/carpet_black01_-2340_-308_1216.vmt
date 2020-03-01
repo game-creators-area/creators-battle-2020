@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/AGENCY/CARPET/CARPET_BLACK01.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/challenge/c-2340_-308_1216"
+	}
+}

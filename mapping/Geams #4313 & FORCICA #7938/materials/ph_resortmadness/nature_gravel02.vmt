@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+        "$baseTexture"        		"ph_resortmadness/nature_gravel02"
+        "$bumpmap"            		"ph_resortmadness/nature_gravel01_SSBump"
+	"$ssbump"			1
+        "$surfaceprop"        		"concrete"
+
+        "$detail"             		"detail\noise_detail_01"
+	"$detailscale"        		"15"
+	"$detailblendfactor"  		"0.2"
+	"$detailblendmode"    		"0" 
+}

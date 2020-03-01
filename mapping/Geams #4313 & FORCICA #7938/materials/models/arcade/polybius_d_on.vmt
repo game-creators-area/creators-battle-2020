@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/arcade/polybius_d_on"
+
+	"$selfillum" 1
+	"$selfillummask" "models/arcade/polybius_lum"
+	$selfillumtint "[2.5 2.5 2.3]"
+	
+}

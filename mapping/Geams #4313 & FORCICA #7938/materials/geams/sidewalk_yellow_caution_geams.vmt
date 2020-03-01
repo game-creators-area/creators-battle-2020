@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	$basetexture "geams/TexturesCom_TactilePaving0005_1_seamless_S"
+	$bumpmap "geams/TexturesCom_TactilePaving0005_1_seamless_S_NRM"
+	$surfaceprop Concrete
+	"$decal" 1
+	"$decalscale" 0.05
+}

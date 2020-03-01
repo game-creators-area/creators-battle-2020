@@ -1,0 +1,18 @@
+VertexLitGeneric
+{
+	$basetexture "models/props_campus/lights01"
+	$bumpmap "models/props_campus/lights01n"
+
+	$envmap "environment maps/metal_generic_001"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.02 0.02 0.02]"
+	$envmaplightscale 1
+
+	$phong 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$halflambert 1
+	$phongexponent 44
+	$phongboost 5
+
+	$selfillum 1
+}

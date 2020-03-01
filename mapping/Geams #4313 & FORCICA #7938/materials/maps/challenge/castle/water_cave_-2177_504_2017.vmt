@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/CASTLE/WATER_CAVE.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/challenge/c-2177_504_2017"
+	}
+}

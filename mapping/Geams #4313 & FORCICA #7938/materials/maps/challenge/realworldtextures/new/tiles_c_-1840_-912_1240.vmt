@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/REALWORLDTEXTURES/NEW/TILES_C.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/challenge/c-1840_-912_1240"
+	}
+}

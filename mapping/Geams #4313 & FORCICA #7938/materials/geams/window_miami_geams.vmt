@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "geams/window_miami_geams"
+	"$bumpmap" "geams/window_miami_geams_nrm"
+}

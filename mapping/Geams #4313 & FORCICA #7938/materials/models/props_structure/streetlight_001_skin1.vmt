@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 		"models/props_structure/streetlight_001_skin1"
+	"$bumpmap"		"models/props_structure/streetlight_001_normal"
+
+	"$selfillum"		"1"
+
+	"$phong" 		"1"
+	"$phongboost"		"1"
+	"$phongfresnelranges" 	"[1 1 1]"
+	"$phongalbedotint"	"1"
+	"$phongexponent"	"20"
+
+}

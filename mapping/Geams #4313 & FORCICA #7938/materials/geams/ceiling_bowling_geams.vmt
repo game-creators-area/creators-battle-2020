@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "geams/ceiling_bowling_geams"
+	"$bumpmap" "geams/ceiling_bowling_geams_nrm"
+	"$envmapmask" "geams/ceiling_bowling_geams_s"
+	"$envmap" "env_cubemap"
+}
+

@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+   "$basetexture"         "models/mark2580/gtav/electrical/tl_v_rockclub_lighting_rig"
+   "$bumpmap"             "models/mark2580/gtav/electrical/tl_v_rockclub_lighting_rig_n"
+   "$phongexponenttexture" "mark2580/gtav/electrical/shared/green"  
+
+$phong               1
+$phongfresnelranges "[0.3 0.75 1.00]"
+$phongalbedotint     1
+$phongexponent       100
+$phongboost          0.5
+$nocull              1
+	
+        "$selfillum"	       "1"
+        "$selfillumtint"       "[1 1 1]"	
+}

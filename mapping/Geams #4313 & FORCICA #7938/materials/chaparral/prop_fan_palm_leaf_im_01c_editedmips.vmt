@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "chaparral/prop_fan_palm_leaf_im_01c_editedmips"
+	"$alphatest" 1	
+	"$allowalphatocoverage" 1	
+	"$alphatestreference" .25
+	"$bumpmap" "chaparral/prop_fan_palm_leaf_im_01c_n"
+}

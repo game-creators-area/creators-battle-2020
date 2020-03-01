@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$vertexfog"		"1"
+	"$basetexture"		"esther/nature/sand/Grass_sandy_001"
+	"bumpmap"		"esther/nature/sand/Grass_sandy_001_normal"
+	"%tooltexture"		"esther/nature/sand/Grass_sandy_001"
+	"$seamless_scale"		"0.003500"
+	"$surfaceprop"		"sand"
+}

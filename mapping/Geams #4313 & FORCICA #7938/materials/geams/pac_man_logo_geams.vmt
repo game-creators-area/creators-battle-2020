@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "geams/pac_man_logo_geams"
+	"$translucent" 1
+}

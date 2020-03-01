@@ -1,0 +1,9 @@
+"VertexlitGeneric" 
+{ 
+	"$basetexture" "models/mark2580/gtav/mp_apa_mid/hall/tl_v_michael_metal_railing"
+    "$bumpmap"            "dev/bump_normal"	
+   "$nocull"      "1" 
+ 	"$envmap"             "env_cubemap" 
+   "$envmaptint"         "[.05 .05 .05]" 
+   "$normalmapalphaenvmapmask"    "1" 
+} 

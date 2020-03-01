@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/MARK2580/GTAV/AFTERHOURSCLUB/SHELL/DLCBA_TILES_WALL_DIFFUSE.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/challenge/c-2112_-816_1216"
+	}
+}

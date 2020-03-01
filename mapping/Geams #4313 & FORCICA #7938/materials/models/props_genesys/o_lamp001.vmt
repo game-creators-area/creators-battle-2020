@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\props_genesys\o_lamp001"
+//	"$model" "1"
+	"$bumpmap" "models\props_genesys\o_lamp001_normal"
+
+//phong properties	
+	"$phong" "1"
+//	"$phongexponenttexture" "models\props_genesys\o_lamp001_exponent"
+	"$phongexponent" "65"
+	"$phongboost" "5"	
+	"$phongfresnelranges"	"[1 1.5 6]"
+	"$lightwarptexture" "models/props_genesys/lightwarp001"
+	
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[0.5 0.5 0.5]"
+	"$selfillum" 1
+	
+
+}

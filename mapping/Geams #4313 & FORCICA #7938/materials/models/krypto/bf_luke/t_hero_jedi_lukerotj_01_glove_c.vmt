@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/krypto/bf_luke/t_hero_jedi_lukerotj_01_glove_c"
+	"$bumpmap"					"models/krypto/bf_luke/t_hero_jedi_lukerotj_01_glove_n"
+	"$color2"	"[0.4 0.4 0.4]"
+	"$blendTintByBaseAlpha"	"1"
+
+	"$phongexponenttexture"	"models/krypto/bf_luke/t_hero_jedi_lukerotj_01_glove_exp"
+	"$phongalbedotint" 1
+	"$phong" "1"
+	"$phongboost"	".300"
+	"$phongfresnelranges"	"[1 1.05 1.25]"
+
+	"$envmap" "models/krypto/bf_luke\text"
+	"$normalmapalphaenvmapmask"	"1"
+	"$envmaptint"	"[0.02 0.02 0.02]"
+	"$envmapfresnel"	"1"
+}

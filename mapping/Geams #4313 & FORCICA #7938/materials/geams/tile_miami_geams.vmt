@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "geams/tile_miami_geams"
+	"$bumpmap" "office/tile/tile_floor_001_ssbump"
+	"$ssbump" "1"
+	"$ssbumpmathfix" "1"
+	"$surfaceprop" "concrete"
+}
+

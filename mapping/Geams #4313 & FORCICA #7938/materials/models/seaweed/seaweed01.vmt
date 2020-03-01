@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$model" 1
+	"$nocull" 1
+	"$alphatest" 1
+	"$basetexture" 	"models/seaweed/seaweed01"
+	"$surfaceprop" "wood"
+}

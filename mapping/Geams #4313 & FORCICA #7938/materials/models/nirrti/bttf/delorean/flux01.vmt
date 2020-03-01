@@ -1,0 +1,19 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models\Nirrti\BTTF\DeLorean\Flux01"
+	"$additive" 1
+	"$nocull" 1
+
+"Proxies"
+	{
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+				"texturescrollrate" 6
+				"texturescrollangle" -90
+		}
+	
+	}
+
+}

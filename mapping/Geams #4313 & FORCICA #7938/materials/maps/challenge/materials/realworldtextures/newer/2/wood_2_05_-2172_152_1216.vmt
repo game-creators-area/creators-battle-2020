@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/MATERIALS/REALWORLDTEXTURES/NEWER/2/WOOD_2_05.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/challenge/c-2172_152_1216"
+	}
+}

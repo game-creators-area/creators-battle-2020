@@ -1,0 +1,15 @@
+"WorldVertexTransition"
+{
+	"$vertexfog" "1"
+	"$blendmodulatetexture" 	"esther/nature/Blendmod_04"
+//	"%detailtype" "esther_grass01"
+	"$basetexture2" "esther/nature/rock/rockface_002"
+	"$basetexture" "esther/nature/sand/Grass_sandy_001"
+	"bumpmap" "esther/nature/sand/Grass_sandy_001_normal"
+	"%tooltexture" "esther/nature/sand/Grass_sandy_001"
+
+	"$seamless_scale" 		"0.0035"
+
+	"$surfaceprop2" "rock"
+	"$surfaceprop" "sand"
+}

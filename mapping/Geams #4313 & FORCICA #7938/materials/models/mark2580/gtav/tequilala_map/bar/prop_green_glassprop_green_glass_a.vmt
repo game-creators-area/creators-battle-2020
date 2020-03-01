@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+   "$basetexture"         "models/mark2580/gtav/tequilala_map/bar/prop_green_glassprop_green_glass_a"
+   "$bumpmap"             "dev/bump_normal"
+   "$phongexponenttexture" "mark2580/gtav/tequilala_map/shared/green"  
+
+$phong               1
+$phongfresnelranges "[0.3 0.75 1.00]"
+$phongalbedotint     1
+$phongexponent       30
+$phongboost          25
+$nocull              1
+$ambientocclusion     "0"
+$translucent 1
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Lights/city_hall_lamp_01"
+	
+	"$selfillum" 1
+}

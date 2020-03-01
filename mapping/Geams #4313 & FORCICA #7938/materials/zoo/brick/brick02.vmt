@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+	$basetexture "zoo/brick/brick02"
+	$bumpmap "zoo/brick/brick02n"
+	$surfaceprop Brick
+}

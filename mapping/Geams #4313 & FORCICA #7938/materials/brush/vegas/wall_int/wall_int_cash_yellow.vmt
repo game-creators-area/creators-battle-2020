@@ -1,0 +1,6 @@
+"LightMappedGeneric"
+{
+	"$color"			"[1 1 1]"
+	"$baseTexture"			"brush/vegas/wall_int/wall_int_cash_yellow"
+	"$surfaceprop" 			"concrete"
+}

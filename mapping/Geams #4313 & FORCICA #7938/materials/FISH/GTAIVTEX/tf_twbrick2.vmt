@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "fish/GtaIVTex/tf_twbrick2"
+	"$surfaceprop" "brick"
+}
